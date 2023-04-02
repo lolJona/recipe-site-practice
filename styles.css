@@ -1,0 +1,25 @@
+#recipe-headline {color: darkgreen; text-align: center;}
+
+.un-list {font-size: x-large; font-family: fantasy; text-align: center; text-decoration: wavy; color: orangered;}
+
+.food-pic {max-height: 400px; width: auto; display: block; margin-left: auto; margin-right: auto;}
+
+.recipe-name {font-size: larger; font-family: Georgia, 'Times New Roman', Times, serif; text-align: center; text-decoration: solid; color: peru;}
+
+.ingredients {list-style-type:square; color: cornflowerblue; text-align: center;}
+
+.description {text-align: center; color: darkblue;}
+
+.par-desc {text-align: center; color: darkblue;}
+
+.steps {text-align: center; color: chocolate;}
+
+.directions {text-align: center; color: chocolate;}
+
+.marquee1 {color: blue; animation: blink 1.5s linear infinite;}
+
+.marquee2 {color: darkgreen;}
+
+.marquee3 {color: tomato;}
+
+.marquee4 {color: steelblue;}
